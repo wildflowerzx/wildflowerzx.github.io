@@ -1,5 +1,14 @@
 @import 'main';
 
+/* Custom styles */
 body {
-  background-color: #FFC0CB;
+  background-color: pink; /* Change background color to pink */
+}
+
+#page-header .logo-title {
+  color: pink; /* Change title text color to pink */
+}
+
+#page-header .tagline {
+  color: pink; /* Change tagline text color to pink */
 }
